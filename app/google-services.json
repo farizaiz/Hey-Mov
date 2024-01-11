@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57001360932",
+    "firebase_url": "https://hey-mov-896ed-default-rtdb.firebaseio.com",
+    "project_id": "hey-mov-896ed",
+    "storage_bucket": "hey-mov-896ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57001360932:android:8b1f16f627f1df44d9e2b1",
+        "android_client_info": {
+          "package_name": "com.heyaiz.heymov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57001360932-ssciqskvr61ljil1tm53bn2icc1ug7ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi13cKQFtPLGnuoWRq4IfaskVWEmoFG0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57001360932-ssciqskvr61ljil1tm53bn2icc1ug7ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
